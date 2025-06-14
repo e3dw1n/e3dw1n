@@ -3,7 +3,6 @@
 
 I’m currently learning **linux and C programming language**
 
-  How to reach me: **pouyaoffcial@gmail.com**
 
 <h3 align="left"></h3>
 <p align="left">
@@ -14,7 +13,7 @@ I’m currently learning **linux and C programming language**
 
 
 
-## 🌐 Socials:
+## How to reach me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pouyaoffcial@gmail.com) 
 
 

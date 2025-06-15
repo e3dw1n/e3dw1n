@@ -13,7 +13,7 @@ I’m currently learning **linux and C programming language**
 
 
 
-## How to reach me:
+##● How to reach me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pouyaoffcial@gmail.com) 
 
 

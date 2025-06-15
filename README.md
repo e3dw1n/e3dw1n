@@ -2,7 +2,7 @@
 <h3 align="center">im just a kid thats learning linux</h3>
 
 I’m currently learning **linux and C programming language**
-●●●●●●●●●●
+
 
 <h3 align="left"></h3>
 <p align="left">

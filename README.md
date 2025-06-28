@@ -1,5 +1,5 @@
-<h1 align="center">Yo, I'm edwin</h1>
-<h3 align="center">im just a kid thats learning linux</h3>
+<h1 align="center">Hello, I'm edwin</h1>
+<h3 align="center">im just a kid that likes linux</h3>
 
 I’m currently learning **linux and C programming language**
 

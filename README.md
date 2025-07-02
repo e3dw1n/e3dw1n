@@ -33,7 +33,7 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=trinib&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=e3dw1n&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
 
 

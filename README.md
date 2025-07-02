@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50px" title="google cloud">
 -->
 
-<img src="./images/message.gif" width="300px" align="right">
+<img src="./message.gif" width="300px" align="right">
 
 <p align="center">
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=e3dw1n&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">

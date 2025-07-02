@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE2MHZsd3puZWg5bXA0anQ4eTEyaTI1Zms1Nm13Y2VwenQzdmQxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UJ5I7921pAOEU/giphy.gif" width=500px title="Hi, nice to meet you!">
 </p>
 
 

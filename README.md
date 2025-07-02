@@ -4,12 +4,9 @@
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
 </p>
 
-<!-- Socials with Links -->
-<!-- Gifs found on GIPHY made by @devrock -->
-[<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">](mailto:pouyaoffcial@gmail.com@gmail.com)
-
-<p align="left">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+<img src="./message.gif" width="300px" align="right">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeldizx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pouaoffcial@gmail.com) 
 
 
 </p>
@@ -28,11 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50px" title="google cloud">
 -->
 
-<img src="./message.gif" width="300px" align="right">
 
-<p align="center">
-<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=e3dw1n&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=e3dw1n&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=e3dw1n&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=e3dw1n&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 ![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)

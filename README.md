@@ -1,10 +1,11 @@
 <h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
+<img src="./message.gif" width="300px" align="right">
 
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
 </p>
 
-<img src="./message.gif" width="300px" align="right">
+
 
 
 

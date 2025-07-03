@@ -14,7 +14,7 @@ e3dw1n@github:~$ ./welcome.sh
 ```
 
 
-<img align="left" src="message.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="175" /> 
+<img align="left" src="message.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="170" /> 
  
  ```
 e3dw1n@github

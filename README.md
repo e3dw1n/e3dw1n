@@ -15,7 +15,7 @@ e3dw1n@github:~$ ./welcome.sh
 
 
 <p align="left">
-  <img src="message.gif" width=500px title="Hi, nice to meet you!">
+  <img src="message.gif" width=270px title="Hi, nice to meet you!">
 </p>
 
 ```

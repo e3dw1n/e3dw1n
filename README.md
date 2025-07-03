@@ -14,11 +14,11 @@ e3dw1n@github:~$ ./welcome.sh
 ```
 
 
-<p align="left">
+<p align="right">
   <img src="message.gif" width=270px title="Hi, nice to meet you!">
 </p>
-
-```
+ 
+ ```
 e3dw1n@github
 -------------------------
 🔎 Main interests in AI & python
@@ -28,10 +28,6 @@ e3dw1n@github
 ⚡ Love ketchup (but not on pasta or pizza) 🍅
 ```
 
-
-<p align="left">
-  <img src="message.gif" width=270px title="Hi, nice to meet you!">
-</p>
 
 
 

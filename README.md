@@ -1,37 +1,26 @@
-```console
-e3dw1n@github:~$ ./welcome.sh
-```
-
-```
- _____________________________________
-< Welcome to my personal github page! >
- ------------------------------------- 
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-
-
-<img align="left" src="message.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="170" /> 
- 
- ```
-e3dw1n@github
--------------------------
-🔎 Main interests in AI & python
-🌟 Main languages: Python,
-🖌️ Love linux (i use arch btw)
-🎵 Love classical music
-⚡ Love ketchup (but not on pasta or pizza) 🍅
-```
-
-
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeldizx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pouaoffcial@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeldizx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pouyaaoffcial@gmail.com) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=e3dw1n&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=e3dw1n&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=e3dw1n&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=e3dw1n&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=e3dw1n&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=e3dw1n&icon=10&color=4)](https://visitcount.itsvg.in)
 
 
 

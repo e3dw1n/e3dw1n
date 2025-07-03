@@ -19,7 +19,7 @@ e3dw1n@github:~$ ./welcome.sh
 </p>
 
 ```
-trykatchup@github
+e3dw1n@github
 -------------------------
 🔎 Main interests in AI & python
 🌟 Main languages: Python,

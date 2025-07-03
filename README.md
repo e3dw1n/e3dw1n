@@ -14,9 +14,7 @@ e3dw1n@github:~$ ./welcome.sh
 ```
 
 
-<p align="right">
-  <img src="message.gif" width=270px title="Hi, nice to meet you!">
-</p>
+<img align="left" src="message.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
  
  ```
 e3dw1n@github

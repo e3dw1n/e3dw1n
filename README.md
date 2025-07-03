@@ -14,7 +14,7 @@ e3dw1n@github:~$ ./welcome.sh
 ```
 
 
-<img align="left" src="message.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="message.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="70" /> 
  
  ```
 e3dw1n@github
@@ -29,7 +29,7 @@ e3dw1n@github
 
 
 
-🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeldizx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pouaoffcial@gmail.com) 
 
 
@@ -52,7 +52,7 @@ e3dw1n@github
 -->
 
 
-📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 
 <details>

@@ -9,9 +9,6 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=e3dw1n&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=e3dw1n&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=e3dw1n&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <details>
   <summary><b>Languages stats</b></summary>
   <br/>
@@ -30,8 +27,11 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e3dw1n&theme=gotham">
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e3dw1n&theme=nord_bright">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabarbra&theme=dark">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e3dw1n&theme=dark">
 </picture>
+![](https://github-readme-stats.vercel.app/api?username=e3dw1n&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=e3dw1n&theme=gotham&hide_border=true)<br/>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=e3dw1n&theme=dark&no-frame=true&no-bg=false&margin-w=4)

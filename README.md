@@ -29,6 +29,7 @@
   <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e3dw1n&theme=nord_bright">
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=e3dw1n&theme=dark">
 </picture>
+
 ![](https://github-readme-stats.vercel.app/api?username=e3dw1n&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=e3dw1n&theme=gotham&hide_border=true)<br/>
 

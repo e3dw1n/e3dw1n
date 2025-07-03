@@ -1,9 +1,32 @@
-<h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
+```console
+e3dw1n@github:~$ ./welcome.sh
+```
+
+```
+ _____________________________________
+< Welcome to my personal github page! >
+ ------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE2MHZsd3puZWg5bXA0anQ4eTEyaTI1Zms1Nm13Y2VwenQzdmQxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UJ5I7921pAOEU/giphy.gif" width=500px title="Hi, nice to meet you!">
 </p>
+```
+trykatchup@github
+-------------------------
+🔎 Main interests in AI & python
+🌟 Main languages: Python,
+🖌️ Love linux (i use arch btw)
+🎵 Love classical music
+⚡ Love ketchup (but not on pasta or pizza) 🍅
+```
+
 
 
 

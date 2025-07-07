@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently learning linux<br>💬 still in middle school btw<br>⚡ love linux
+🔭 I’m currently learning linux<br>💬 still in middle school <br>⚡ love linux
 
 
 ## 🌐 Socials:
